@@ -1,2 +1,2 @@
 # small-users
-A simple pythonscript to find short usernames on websites.
+A simple python script to find short usernames on websites.
